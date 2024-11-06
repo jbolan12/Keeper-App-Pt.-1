@@ -51,7 +51,7 @@ Open your browser and go to http://localhost:3000 to view the app.
 ## Usage
 This application loads notes from a notes.js file, which contains an array of note objects. Each note has a title and content that are displayed using the Note component. To modify or add new notes:
 
-- Edit the notes.js file in the src directory to add new notes or change existing ones.
+**Edit the notes.js file in the src directory to add new notes or change existing ones.**
 
 Example notes.js Entry
 javascript
@@ -64,30 +64,13 @@ export default notes;
 
 
 ## Features
-Dynamic Note Rendering: Renders all notes in the notes.js file using the Note component.
-Component Structure: Organized with reusable components (Header, Footer, Note).
-Easy to Update: Modify notes by editing a single notes.js file.
-Technologies
-React
-JavaScript (ES6+)
+- Dynamic Note Rendering: Renders all notes in the notes.js file using the Note component.
+- Component Structure: Organized with reusable components (Header, Footer, Note).
+- Easy to Update: Modify notes by editing a single notes.js file.
 
-
-## Folder Structure
-plaintext
-
-your-repo/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── App.js
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   │   └── Note.js
-│   ├── notes.js
-│   ├── index.js
-│   └── styles.css
-└── README.md
+## Technologies
+- React
+- JavaScript (ES6+)
 
 
 ## License
