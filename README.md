@@ -30,7 +30,7 @@ The Notes App uses React components to organize and display a list of notes. Eac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/jbolan12/Keeper-App-Pt.-1.git
 
 
 ## Navigate to the project directory:
